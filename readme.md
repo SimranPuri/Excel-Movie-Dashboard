@@ -34,7 +34,7 @@ This Excel dashboard project presents a detailed analysis of movie ratings and r
 * Explore KPIs, use slicers, and interact with charts to analyze data.
 
 📚 **About the Dataset**
-* Source: (You can mention if you created it or where you got it from)
+* Source: Collected the dataset from internet 
 * Fields: Movie Name, Year, IMDb Rating, Box Office Revenue, Streaming Platform, etc.
 
 🙌 **Acknowledgments**
